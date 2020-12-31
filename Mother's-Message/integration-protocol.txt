@@ -1,0 +1,14 @@
+THIS TEXT FILE IS INTENDED TO RECORD THE INSTRUCTIONS FOR INTEGRATING THE SCENES INTO THE MAIN FLASH FILE
+
+1. Open main fla
+2. On library, create new folder under the "SCENES" folder named <Scene x>
+3. From the Scene window, click the "Scene Template" and duplicate it
+4. Rename the duplicate scene to <Scene x>
+5. Select scene and go to Timeline. Rename the layers and remove unnecessary layers.
+6. From the scenes folder, go to <Scene x> and open it
+7. Highlight all frames on that Scene x.fla
+8. Go to main fla, create new layer and paste it from there
+9. Make sure the timeline elements all stop on the same frame, adjust the other keyframe length if needed
+10. Go to actionscript of Scene x then modify the variable names
+11. Transfer all loose library elements onto the folder
+12. Make sure all Timeline layers are locked for masking to take full effect
