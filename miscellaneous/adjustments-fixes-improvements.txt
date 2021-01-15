@@ -7,34 +7,35 @@ Menu Scene
 - ✅ Build credits scene
 - ✅ "Play Movie" click transition animation black from all corners reducing to circle inside same as "Credits"
 Scene 0A
-- Both hands extend
+- ✅ Both hands extend
 - Typing sound effect
 - Low sound
 - ✅ Apply sound effects on all nav buttons, click
 - ✅ Adjust also the nav buttons positioning?
 Scene 0B
 - Typing sound per letter
-- fade from 0 - 100% black on the end
+- ✅ fade from 0 - 100% black on the end
 - Low sound continue
 Scene 1
 - happy sound
 - environment sounds
 - add time on this scene
-- moving clouds
-- adjust sky color
+- ✅ moving birds
+- ✅ adjust sky color
+
+
 Scene 2
 - message pop sound
 - add time on this scene
 - happy sound continue
 - environment sounds continue
 Scene 3
-- plastic bags on street, make it dirty to walk
+- ✅ plastic bags on street, make it dirty to walk
 - low and ominous sound
 - add time on this scene
 - footsteps
-- meow sound when on the meow part
 Scene 4
-- house scene funny window fix
+- ✅ house scene funny window fix
 - happy sound
 - environment sounds
 - morning sound
@@ -52,7 +53,7 @@ Scene 7
 - sad music continue lower
 Scene 8
 - Typing sound per letter
-- fade from 0 - 100% black on the end
+- ✅ fade from 0 - 100% black on the end
 - Low sound continue
 Scene 9
 - low and ominous sound
@@ -66,21 +67,22 @@ Scene 10
 - sad sound
 Scene 11
 - Typing sound per letter
-- fade from 0 - 100% black on the end
+- ✅ fade from 0 - 100% black on the end
 - Low sound continue
 Scene 12
 - industrial noise
 - sad sound
-- fade from 0 - 100% black on the end
+- ✅ fade from 0 - 100% black on the end
 Scene 13
 - industrial noise
 - sad sound
-- fade from 0 - 100% black on the end
+- ✅ fade from 0 - 100% black on the end
 Scene 14
 - industrial noise
+
 - sad sound
-- fade from 0 - 100% black on the end
+- ✅ fade from 0 - 100% black on the end
 Scene 15
-- flashback all events
+- ✅ final message
 Credits Scene
 - happy music ukulele
