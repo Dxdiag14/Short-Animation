@@ -1,5 +1,11 @@
 adjustments
 
+AUDIO IMPLEMENTATION PROTOCOL
+1. Create a layer and name it "sound"
+2. Select that current layer and drag your sound file for the appropriate scene
+3. Click a frame on that layer and set the Sync property to "Start" and "Loop"
+4. Lock the sound layer
+
 
 Menu Scene
 - ✅ Sounds at click on the menu buttons
@@ -9,80 +15,77 @@ Menu Scene
 Scene 0A
 - ✅ Both hands extend
 - Typing sound effect
-- Low sound
+- ✅ Low sound
 - ✅ Apply sound effects on all nav buttons, click
 - ✅ Adjust also the nav buttons positioning?
 Scene 0B
 - Typing sound per letter
 - ✅ fade from 0 - 100% black on the end
-- Low sound continue
+- ✅ Low sound continue
 Scene 1
-- happy sound
+- ✅ happy sound
 - environment sounds
 - add time on this scene
 - ✅ moving birds
 - ✅ adjust sky color
-
-
 Scene 2
 - message pop sound
-- add time on this scene
-- happy sound continue
+- ✅ add time on this scene
+- ✅ happy sound continue
 - environment sounds continue
 Scene 3
 - ✅ plastic bags on street, make it dirty to walk
-- low and ominous sound
-- add time on this scene
+- ✅ low and ominous sound
+- ✅ add time on this scene
 - footsteps
 Scene 4
 - ✅ house scene funny window fix
-- happy sound
-- environment sounds
-- morning sound
+- ✅ happy sound
+- ✅ environment sounds
+- ✅ morning sound
 Scene 5
-- low and ominous sound
-- add time on this scene
+- ✅ low and ominous sound
+- ✅ add time on this scene
 - industrial noise
 Scene 6
-- sad music
+- ✅ sad music
 - raining sfx
 - walking on puddle sfx
 - lightning sfx
 Scene 7
 - message pop sound
-- sad music continue lower
+- ✅ sad music continue lower
 Scene 8
 - Typing sound per letter
 - ✅ fade from 0 - 100% black on the end
-- Low sound continue
+- ✅ Low sound continue
 Scene 9
-- low and ominous sound
-- add time on this scene
-- industrial noise
-- horror rising
+- ✅ low and ominous sound
+- ✅ add time on this scene
+- ✅ industrial noise
+- ✅ horror rising
 Scene 10
-- low and ominous sound
-- add time on this scene
-- industrial noise
-- sad sound
+- ✅ low and ominous sound
+- ✅ add time on this scene
+- ✅ industrial noise
+- ✅ sad sound
 Scene 11
 - Typing sound per letter
 - ✅ fade from 0 - 100% black on the end
-- Low sound continue
+- ✅ Low sound continue
 Scene 12
-- industrial noise
-- sad sound
+- ✅ industrial noise
+- ✅ sad sound
 - ✅ fade from 0 - 100% black on the end
 Scene 13
-- industrial noise
-- sad sound
+- ✅ industrial noise
+- ✅ sad sound
 - ✅ fade from 0 - 100% black on the end
 Scene 14
-- industrial noise
-
-- sad sound
+- ✅ industrial noise
+- ✅ sad sound
 - ✅ fade from 0 - 100% black on the end
 Scene 15
 - ✅ final message
 Credits Scene
-- happy music ukulele
+- ✅ happy music ukulele
